@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is **Affch3N**, and I am a part-time undergraduate student in Applied Informatics (Intelligent and Domain-Oriented Automated Systems). I also develop bots, write poems, and create song lyrics.
+My name is **Affch3N**, and I am a part-time undergraduate student in Applied Informatics (Intelligent and Domain-Oriented Automated Systems). I also develop bots, write music, and create song lyrics.
 
 ## 🚀 About Me
 - 🔭 I’m currently working on: **a functionality telegram bot**
