@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Affch3N/Affch3N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Affch3N**, and I am a part-time undergraduate student in Applied Informatics (Intelligent and Domain-Oriented Automated Systems). I also develop bots, write poems, and create song lyrics.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working on: **a bot for appointment scheduling with a calendar view, slot management via an admin panel, user profiles, and appointment cancellation functionality**
+- 🌱 I’m currently learning: **ethical communication norms, applied informatics**
+- 💬 Ask me about: **bot development, intelligent systems, process automation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Affch3N&show_icons=true&theme=radical)
